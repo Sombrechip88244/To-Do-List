@@ -1,3 +1,6 @@
+#This is a python todo list app
+
+
 tasks = []
 
 def addTask():
